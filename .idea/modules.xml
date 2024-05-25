@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ChallengeLiterAlura.iml" filepath="$PROJECT_DIR$/ChallengeLiterAlura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/liter.iml" filepath="$PROJECT_DIR$/liter.iml" />
     </modules>
   </component>
 </project>
